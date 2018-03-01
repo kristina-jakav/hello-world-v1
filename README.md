@@ -1,2 +1,3 @@
 # hello-world-v1
-testing
+
+learning how to work with Git
